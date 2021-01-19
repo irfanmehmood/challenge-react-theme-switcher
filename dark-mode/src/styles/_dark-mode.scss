@@ -38,6 +38,13 @@
     color: black;
   }
 
+  .app__dark-mode-btn {
+
+    svg {
+      color:#FFA500;
+    }
+  }
+
   input {
     background: rgba(255, 255, 255, 0.2);
     color: white;
